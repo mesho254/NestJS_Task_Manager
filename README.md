@@ -57,6 +57,17 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
+## Environment Variables
+
+```bash
+DB_HOST=your_host
+DB_PORT=your_port
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
+DB_DATABASE=your_database
+JWT_SECRET=your_secret
+JWT_EXPIRATION_TIME=3600s
+```
 
 Your NestJS application should be running on http://localhost:5000.
 
