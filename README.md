@@ -58,7 +58,7 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-Your NestJS application should be running on http://localhost:3000.
+Your NestJS application should be running on http://localhost:5000.
 
 Example Endpoints
 Register a User:
